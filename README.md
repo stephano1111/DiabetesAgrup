@@ -1,0 +1,2 @@
+# DiabetesAgrup
+Agrupación metodos
